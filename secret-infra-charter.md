@@ -1,7 +1,5 @@
 ### Secret Infrastructure Charter
 
-Secret Infrastructure Charter
-
 Purpose
 
 Secret infrastructure conducts research, maintains network infrastructure such as testnet, relayers, and api’s, and creates documentation & essential resources for node runners on the Secret Network, for the benefit of all network participants.
