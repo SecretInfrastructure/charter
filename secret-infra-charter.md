@@ -49,4 +49,4 @@ Clauses
 
 1. Any hardware purchased must be utilized for the benefit of the whole secret network community, not just a member of the working group.
 
-2. Unless otherwise specified on a specific proposal or in a ratified network charter, we reserve the same right as other groups and committees to use our discretion with discretionary funds on things in line with things explicity outlined in our charter, as well as things that logically fall within the domain of Secret Infrastructure.
+2. Unless otherwise specified on a specific proposal or in a ratified network charter, we reserve the same right as other groups and committees to use our discretion with discretionary funds on things in line with things outlined in our charter, as well as things that logically fall within the domain of Secret Infrastructure.
