@@ -1,3 +1,3 @@
 ### Status of Secret Infrastructure
 
-NodeFather is the only remaining member of the Secret Infrastructure team, and is carrying on any responsiblities through contributions to the API Team proposal.
+NodeFather is the only remaining member of the Secret Infrastructure team, and intends to carry out the obligations of those committments through a new proposal in early to mid 2024.
